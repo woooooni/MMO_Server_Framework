@@ -1,0 +1,16 @@
+C:\Users\xodnj\Desktop\공부\Server\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.exe
+C:\Users\xodnj\Desktop\공부\Server\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.deps.json
+C:\Users\xodnj\Desktop\공부\Server\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.runtimeconfig.json
+C:\Users\xodnj\Desktop\공부\Server\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.runtimeconfig.dev.json
+C:\Users\xodnj\Desktop\공부\Server\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.dll
+C:\Users\xodnj\Desktop\공부\Server\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.pdb
+C:\Users\xodnj\Desktop\공부\Server\DummyClient\bin\Debug\netcoreapp3.1\ServerCore.dll
+C:\Users\xodnj\Desktop\공부\Server\DummyClient\bin\Debug\netcoreapp3.1\ServerCore.pdb
+C:\Users\xodnj\Desktop\공부\Server\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.csprojAssemblyReference.cache
+C:\Users\xodnj\Desktop\공부\Server\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.AssemblyInfoInputs.cache
+C:\Users\xodnj\Desktop\공부\Server\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.AssemblyInfo.cs
+C:\Users\xodnj\Desktop\공부\Server\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.csproj.CoreCompileInputs.cache
+C:\Users\xodnj\Desktop\공부\Server\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.csproj.CopyComplete
+C:\Users\xodnj\Desktop\공부\Server\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.dll
+C:\Users\xodnj\Desktop\공부\Server\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.pdb
+C:\Users\xodnj\Desktop\공부\Server\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.genruntimeconfig.cache

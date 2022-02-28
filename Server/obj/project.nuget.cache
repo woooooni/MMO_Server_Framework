@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mzla2S1gZM4u5O9p1iD/wMn7N2MZYjaENyZl7T3Ph46PVO4h1vGtzRBaK1WUqoZeIzH1Q3MP2RgXaQbkoENfqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xodnj\\Desktop\\공부\\Server\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xodnj\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
