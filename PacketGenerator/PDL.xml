@@ -4,11 +4,36 @@
   C - Client to Server
   S - Server to Client
   -->
-  <packet name="C_Chat">
-    <string name="chat"/>
-  </packet>
-  <packet name ="S_Chat">
+  <packet name="S_BroadCastEnterGame">
     <int name="playerID"/>
-    <string name="chat"/>
+    <float name="posX"/>
+    <float name="posY"/>
+    <float name="posZ"/>
+  </packet>
+  <packet name="C_LeaveGame">
+    
+  </packet>
+  <packet name="S_BroadCastLeaveGame">
+    <int name="playerID"/>
+  </packet>
+  <packet name="S_PlayerList">
+    <list name="player">
+      <bool name="isSelf"/>
+      <int name="playerID"/>
+      <float name="posX"/>
+      <float name="posY"/>
+      <float name="posZ"/>
+    </list>
+  </packet>
+  <packet name="C_Move">
+    <float name="posX"/>
+    <float name="posY"/>
+    <float name="posZ"/>
+  </packet>
+  <packet name="S_BroadCastMove">
+    <int name="playerID"/>
+    <float name="posX"/>
+    <float name="posY"/>
+    <float name="posZ"/>
   </packet>
 </PDL>

@@ -11,3 +11,16 @@ C:\Users\xodnj\Desktop\공부\Server\PacketGenerator\obj\Debug\PacketGenerator.c
 C:\Users\xodnj\Desktop\공부\Server\PacketGenerator\obj\Debug\PacketGenerator.dll
 C:\Users\xodnj\Desktop\공부\Server\PacketGenerator\obj\Debug\PacketGenerator.pdb
 C:\Users\xodnj\Desktop\공부\Server\PacketGenerator\obj\Debug\PacketGenerator.genruntimeconfig.cache
+C:\Users\xodnj\Desktop\공부\MMO_Server\PacketGenerator\bin\PacketGenerator.exe
+C:\Users\xodnj\Desktop\공부\MMO_Server\PacketGenerator\bin\PacketGenerator.deps.json
+C:\Users\xodnj\Desktop\공부\MMO_Server\PacketGenerator\bin\PacketGenerator.runtimeconfig.json
+C:\Users\xodnj\Desktop\공부\MMO_Server\PacketGenerator\bin\PacketGenerator.runtimeconfig.dev.json
+C:\Users\xodnj\Desktop\공부\MMO_Server\PacketGenerator\bin\PacketGenerator.dll
+C:\Users\xodnj\Desktop\공부\MMO_Server\PacketGenerator\bin\PacketGenerator.pdb
+C:\Users\xodnj\Desktop\공부\MMO_Server\PacketGenerator\obj\Debug\PacketGenerator.csprojAssemblyReference.cache
+C:\Users\xodnj\Desktop\공부\MMO_Server\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfoInputs.cache
+C:\Users\xodnj\Desktop\공부\MMO_Server\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfo.cs
+C:\Users\xodnj\Desktop\공부\MMO_Server\PacketGenerator\obj\Debug\PacketGenerator.csproj.CoreCompileInputs.cache
+C:\Users\xodnj\Desktop\공부\MMO_Server\PacketGenerator\obj\Debug\PacketGenerator.dll
+C:\Users\xodnj\Desktop\공부\MMO_Server\PacketGenerator\obj\Debug\PacketGenerator.pdb
+C:\Users\xodnj\Desktop\공부\MMO_Server\PacketGenerator\obj\Debug\PacketGenerator.genruntimeconfig.cache

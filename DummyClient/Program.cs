@@ -31,7 +31,7 @@ namespace DummyClient
                 {
                     Console.WriteLine(e.ToString());
                 }
-                //보통 MMO에서는 1초에 4번 패킷을 보냄
+                //보통 MMO에서는 1초에 4번 패킷을 보냄.
                 Thread.Sleep(250);
             }
         }

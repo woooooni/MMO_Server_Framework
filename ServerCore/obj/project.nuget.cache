@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gHzo4F+uh/qrfnWOH1vYfmAxnNx69/uNVcsOP5PmmS8jIBuggnig1GRvZc9VZPijlpeEXLUOAhZ3Oq8YLCyPMQ==",
+  "dgSpecHash": "bzUJ6Tc5ZFAw/tMIkeAKVb9cltHyPUBJd5AymYXSlL6WvM5NEM92g8D300b4BkuoGuaR19NNGoKLIL0tJTpPng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xodnj\\Desktop\\공부\\Server\\ServerCore\\ServerCore.csproj",
+  "projectFilePath": "C:\\Users\\xodnj\\Desktop\\공부\\MMO_Server\\ServerCore\\ServerCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

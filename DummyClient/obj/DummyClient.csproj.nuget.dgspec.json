@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xodnj\\Desktop\\공부\\Server\\DummyClient\\DummyClient.csproj": {}
+    "C:\\Users\\xodnj\\Desktop\\공부\\MMO_Server\\DummyClient\\DummyClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xodnj\\Desktop\\공부\\Server\\DummyClient\\DummyClient.csproj": {
+    "C:\\Users\\xodnj\\Desktop\\공부\\MMO_Server\\DummyClient\\DummyClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xodnj\\Desktop\\공부\\Server\\DummyClient\\DummyClient.csproj",
+        "projectUniqueName": "C:\\Users\\xodnj\\Desktop\\공부\\MMO_Server\\DummyClient\\DummyClient.csproj",
         "projectName": "DummyClient",
-        "projectPath": "C:\\Users\\xodnj\\Desktop\\공부\\Server\\DummyClient\\DummyClient.csproj",
+        "projectPath": "C:\\Users\\xodnj\\Desktop\\공부\\MMO_Server\\DummyClient\\DummyClient.csproj",
         "packagesPath": "C:\\Users\\xodnj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xodnj\\Desktop\\공부\\Server\\DummyClient\\obj\\",
+        "outputPath": "C:\\Users\\xodnj\\Desktop\\공부\\MMO_Server\\DummyClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xodnj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\xodnj\\Desktop\\공부\\Server\\ServerCore\\ServerCore.csproj": {
-                "projectPath": "C:\\Users\\xodnj\\Desktop\\공부\\Server\\ServerCore\\ServerCore.csproj"
+              "C:\\Users\\xodnj\\Desktop\\공부\\MMO_Server\\ServerCore\\ServerCore.csproj": {
+                "projectPath": "C:\\Users\\xodnj\\Desktop\\공부\\MMO_Server\\ServerCore\\ServerCore.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\xodnj\\Desktop\\공부\\Server\\ServerCore\\ServerCore.csproj": {
+    "C:\\Users\\xodnj\\Desktop\\공부\\MMO_Server\\ServerCore\\ServerCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xodnj\\Desktop\\공부\\Server\\ServerCore\\ServerCore.csproj",
+        "projectUniqueName": "C:\\Users\\xodnj\\Desktop\\공부\\MMO_Server\\ServerCore\\ServerCore.csproj",
         "projectName": "ServerCore",
-        "projectPath": "C:\\Users\\xodnj\\Desktop\\공부\\Server\\ServerCore\\ServerCore.csproj",
+        "projectPath": "C:\\Users\\xodnj\\Desktop\\공부\\MMO_Server\\ServerCore\\ServerCore.csproj",
         "packagesPath": "C:\\Users\\xodnj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xodnj\\Desktop\\공부\\Server\\ServerCore\\obj\\",
+        "outputPath": "C:\\Users\\xodnj\\Desktop\\공부\\MMO_Server\\ServerCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xodnj\\AppData\\Roaming\\NuGet\\NuGet.Config",

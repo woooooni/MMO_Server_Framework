@@ -12,17 +12,18 @@ namespace DummyClient
 
         List<ServerSession> _sessions = new List<ServerSession>();
         object _lock = new object();
-
+        Random _rand = new Random();
         public void SendForEach()
         {
             lock (_lock)
             {
                 foreach(ServerSession s in _sessions)
                 {
-                    C_Chat chatPacket = new C_Chat();
-                    chatPacket.chat = $"Hello server!";
-                    ArraySegment<byte> seg = chatPacket.Write();
-                    s.Send(seg);
+                    C_Move movePacket = new C_Move();
+                    movePacket.posX = _rand.Next(-50, 50);
+                    movePacket.posY = 0;
+                    movePacket.posZ = _rand.Next(-50, 50); ;
+                    s.Send(movePacket.Write());
                 }
             }
         }

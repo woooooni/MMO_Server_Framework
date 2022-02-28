@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xodnj\\Desktop\\공부\\Server\\PacketGenerator\\PacketGenerator.csproj": {}
+    "C:\\Users\\xodnj\\Desktop\\공부\\MMO_Server\\PacketGenerator\\PacketGenerator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xodnj\\Desktop\\공부\\Server\\PacketGenerator\\PacketGenerator.csproj": {
+    "C:\\Users\\xodnj\\Desktop\\공부\\MMO_Server\\PacketGenerator\\PacketGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xodnj\\Desktop\\공부\\Server\\PacketGenerator\\PacketGenerator.csproj",
+        "projectUniqueName": "C:\\Users\\xodnj\\Desktop\\공부\\MMO_Server\\PacketGenerator\\PacketGenerator.csproj",
         "projectName": "PacketGenerator",
-        "projectPath": "C:\\Users\\xodnj\\Desktop\\공부\\Server\\PacketGenerator\\PacketGenerator.csproj",
+        "projectPath": "C:\\Users\\xodnj\\Desktop\\공부\\MMO_Server\\PacketGenerator\\PacketGenerator.csproj",
         "packagesPath": "C:\\Users\\xodnj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xodnj\\Desktop\\공부\\Server\\PacketGenerator\\obj\\",
+        "outputPath": "C:\\Users\\xodnj\\Desktop\\공부\\MMO_Server\\PacketGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xodnj\\AppData\\Roaming\\NuGet\\NuGet.Config",
